@@ -1,3 +1,4 @@
 #Hello world
 
-Members: test, kosd, sdf, asd
+Members: Jonas, Mads, Marni, Mikkel og Zainab
+Updated
